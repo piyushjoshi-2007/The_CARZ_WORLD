@@ -1,16 +1,59 @@
-# React + Vite
+# 🚗 Carz World – MERN Learning Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Carz World is a **basic MERN stack learning project** created to understand the **complete MERN workflow** from frontend to backend.
 
-Currently, two official plugins are available:
+This project focuses on learning how **React**, **Express**, and **MongoDB** work together in a real-world application.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 Project Objective
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The main goal of this project is:
+- To understand **MERN stack flow**
+- To practice **React concepts**
+- To learn **Express server creation**
+- To connect backend with **MongoDB**
+- To store **signup data properly in MongoDB**
 
-## Expanding the ESLint configuration
+This is a **learning & revision project**, not a production-level application.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack Used
+
+### Frontend
+- React (Vite)
+- JSX
+- Components
+- Props
+- useState Hook
+- Axios
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs (GET, POST, PUT, PATCH)
+
+### Database
+- MongoDB
+- Mongoose
+- Schema & Model creation
+
+---
+
+## ✨ Features Implemented
+
+- User Signup
+- User Login (basic)
+- Form handling using React
+- API integration using Axios
+- Express server setup
+- MongoDB connection using Mongoose
+- Signup data successfully stored in MongoDB
+- Clean frontend UI using Tailwind CSS
+
+---
+
+## 📂 Project Structure
+
