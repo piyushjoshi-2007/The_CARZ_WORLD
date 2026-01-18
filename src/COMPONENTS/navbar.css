@@ -1,0 +1,4 @@
+nav li:hover{
+    transition: 0.2s;
+    color: red;
+}
